@@ -3,5 +3,5 @@ The players must obey all commands that begin with the words “Simon says”. I
 
 ## Screenshots
 
-![Screenshot 1](Screenshot from 2024-04-26 13-34-05.png)
+![Screenshot 1](https://github.com/1khalaneshubham/Simon-Says-Game/blob/main/Screenshot%20from%202024-04-26%2013-34-05.png)
 
